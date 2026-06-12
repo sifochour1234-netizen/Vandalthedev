@@ -1,12 +1,12 @@
 const projects = [
   {
     name: "Dar El Joud",
-    category: "Luxury Real Estate",
+    category: "Restaurant",
     image: "Projects/project1.webp"
   },
   {
     name: "Carbon Artelier",
-    category: "E-Commerce",
+    category: "Dealership",
     image: "Projects/project2.webp"
   },
   {
@@ -15,7 +15,7 @@ const projects = [
     image: "Projects/project3.webp"
   },
   {
-    name: "Noir Atelier 2",
+    name: "Velar",
     category: "Premium design",
     image: "Projects/project4.webp"
   },
@@ -25,8 +25,8 @@ const projects = [
     image: "Projects/project5.webp"
   },
   {
-    name: "Premium Brand Experience",
-    category: "Brand Design",
+    name: "Premium Interior Decorations",
+    category: "Online Store",
     image: "Projects/project6.webp"
   }
 ];
