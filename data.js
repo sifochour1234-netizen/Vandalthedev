@@ -15,7 +15,7 @@ const projects = [
     image: "Projects/project3.webp"
   },
   {
-    name: "Velar",
+    name: "Aurora",
     category: "Premium design",
     image: "Projects/project4.webp"
   },
